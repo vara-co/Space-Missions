@@ -30,18 +30,18 @@ Analysis & Slide Presentation
 ---------------------------------
 Content of the repository
 ---------------------------------
-(Clean up of our Data)
+(Clean up of our Data. We all contributed on the cleaning process.)
 - Final Space Mission Data.ipynb
 - Main Space Missions Project Data First Draft.ipynb
 - Main Space Missions Project Data Second Draft.ipynb
 - alternate_cleaning_solution.ipynb <-- This is another method to extract the 'Country' for the 'Location' cleanup
 
 (Analysis files)
-- Missions_Over_Time.ipynb
-- SP_SuccessFailures_OT.ipynb
-- Space Mission Q1&2.ipynb
-- daynight_analysis.ipynb
-- rocket_usage_analysis.ipynb
+- Missions_Over_Time.ipynb <-- This was the particular section I worked on, as well as the next.
+- SP_SuccessFailures_OT.ipynb  <-- L.Vara worked on this analysis
+- Space Mission Q1&2.ipynb <-- M. Smith worked on this analysis.
+- daynight_analysis.ipynb <-- M. Aparisio worked on this analysis.
+- rocket_usage_analysis.ipynb <-- H. Heer worked on this analysis.
 
 Resources Directory
 - Country_LatLon_Missions.csv (for the Missions_Over_Time.ipynb file)
