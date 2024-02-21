@@ -25,7 +25,7 @@ INDEX
 Analysis & Slide Presentation
 ---------------------------------
 - Space Missions Over Time Analysis Report: https://docs.google.com/document/d/1LXfqi8nnqv8FLbiWnFYCIZ_cI24FpyNkjXM8xtL5IYU/edit?usp=sharing
-- Presentation: https://docs.google.com/presentation/d/1klXu05u3-8OfmkQ52thHnJL7lsWQgRZOKclI1L5tZzM/edit?usp=sharing 
+- Presentation: https://docs.google.com/presentation/d/e/2PACX-1vSYGwoWo48MqjfLklgQx9qJVgzrAZ9RTIZUyrHAluc_XEFUufBghQBIGLFjF28zqftDUeWzldbeAtlY/pub
 
 ---------------------------------
 Content of the repository
