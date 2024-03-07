@@ -6,7 +6,7 @@ H&amp;Ms Project 1
 --------------------------------
 - By M. Aparisio, H. Heer, M. Smith & L. Vara
 --------------------------------
-![ReadmeImage](https://github.com/vara-co/Space-Missions/assets/152572519/582dac55-e7f5-49d7-8c67-ac28e07596f6)
+![ReadmeImage](https://github.com/vara-co/Space-Missions/assets/152572519/67c32012-afa8-4689-ab4b-d07e9ed64455)
 
 Note: It is important that if you are going to use this code, the csv files
 are placed in a directory that you can pull them from, idealy a 'Resources' folder
