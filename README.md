@@ -1,8 +1,7 @@
-# Space_Missions
+# Space Missions Group Project 1
 This is a group project with a dataset based on Space Missions from 1957-2022
 
-# Space_Mission_Project
-H&amp;Ms Project 1
+H&amp;Ms 
 --------------------------------
 - By M. Aparisio, H. Heer, M. Smith & L. Vara
 --------------------------------
